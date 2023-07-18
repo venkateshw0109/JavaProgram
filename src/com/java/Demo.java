@@ -7,6 +7,11 @@ public class Demo {
 		System.out.println("java");
 		
 		System.out.println("manual");
-	}
+
+		System.out.println("Selenium");
+		
+		System.out.println("Cucumber");
+
+		}
 
 }
